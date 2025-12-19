@@ -1,0 +1,7 @@
+{
+  "name": "HueHarmony AI - Personalized Color Consultant",
+  "description": "A professional AI-driven color analysis tool for Shopify stores that analyzes skin tone, hair, and eye color from a photo to provide personalized clothing color recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
